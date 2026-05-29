@@ -1,6 +1,4 @@
 # Machine-Learning-Libraries
-# Machine Learning Libraries
-
 ## Overview
 This repository contains Experiment 17 on Machine Learning Libraries. The document explains the most commonly used Python libraries in Machine Learning, their features, applications, advantages, and basic examples.
 
